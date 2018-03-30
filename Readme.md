@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Yelena Vertyagina](https://up.htmlacademy.ru/javascript/13/user/368857).
-* Наставник: `Неизвестно`.
+* Наставник: Keksobot.
 
 ---
 
